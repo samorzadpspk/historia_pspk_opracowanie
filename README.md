@@ -10,4 +10,6 @@
 
 Opracowanie i skład tekstu: Jakub Achtelik
 
+Wersja PDF: https://github.com/samorzadpspk/historia_pspk_opracowanie/blob/main/pdf/Historia_PSPK.pdf
+
 Copyright © 2025 PSPK – Parlament Studentów Politechniki Koszalińskiej
