@@ -18,6 +18,7 @@
 // spis tresci
 #set heading(numbering: "1.")
 
+
 #show outline.entry.where(
   level: 1
 ): it => {
@@ -37,7 +38,9 @@
 
 #pagebreak()
 
+#bibliography("bibliografia.bib")
 
+#pagebreak()
 
 #include "rozdzialy/wstep.typ"
 #pagebreak()
