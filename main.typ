@@ -1,4 +1,5 @@
 #import "@preview/bubble:0.2.2": *
+#import "@preview/muchpdf:0.1.0": muchpdf
 
 #show: bubble.with(
   title: "Historia PSPK",

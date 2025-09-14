@@ -19,11 +19,35 @@ W kadencji 2022 Przewodnicząca FUT została Aleksandra Zmuda Trzebiatowska.\
 W kadencji FUT 2023 Pełnomocnikiem ds. IT zostaje Kacper Teterka.
 Arleta Tryka – Przewodnicząca Komisji ds. Dydaktyki i jakości Kształcenia kadencji 2025 PSPK w 2023 była sekratarzem FUT oraz w 2024 Członkiem Komisji Rewiznej FUT.\
 
+#import "@preview/muchpdf:0.1.0": muchpdf
+
 === Zjazdy FUT przeprowadzone w Koszalinie
-==== FUT Koszalin 2022\
-==== FUT Koszalin 2012\
-==== FUT Koszalin 2005 ? \
-==== FUT Koszalin 2000 (X Zjazd FUT)\
+==== FUT Koszalin 2022
+==== FUT Koszalin 2012
+
+#muchpdf(
+  read("../src/fut2012.pdf", encoding: none),
+  scale: 1.0,
+  alt: "FUT 2012 Koszaln",
+)
+#align(center)[
+Źródło: Archiwum PSPK - FUT/1/2012 - Koszalin
+]
+
+==== FUT Koszalin 2005 ? 
+==== FUT Koszalin 2000 (X Zjazd FUT)
+
+#muchpdf(
+    read("../src/fut2000.pdf", encoding: none),
+    scale: 1.0,
+    alt: "FUT 2000 Koszaln",
+  ),
+#align(center)[
+  Źródło: Fragment Na temat Nr 5/2000 - Pismo Politechniki Koszalińskiej
+
+]
+
+
 
 == Nagordy FUT dla PSPK
 - Studencka aPka – nagroda w kategorii ,,Najlepszy projekt promocyjny” 22 Października 2022r.
