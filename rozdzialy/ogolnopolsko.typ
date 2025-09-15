@@ -31,7 +31,7 @@ Arleta Tryka – Przewodnicząca Komisji ds. Dydaktyki i jakości Kształcenia k
   alt: "FUT 2012 Koszaln",
 )
 #align(center)[
-Źródło: Archiwum PSPK - FUT/1/2012 - Koszalin
+Źródło: Archiwum PSPK - FUT/1/2012 - Koszalin @fut-1-2012
 ]
 
 ==== FUT Koszalin 2005 ? 
@@ -43,7 +43,7 @@ Arleta Tryka – Przewodnicząca Komisji ds. Dydaktyki i jakości Kształcenia k
     alt: "FUT 2000 Koszaln",
   ),
 #align(center)[
-  Źródło: Fragment Na temat Nr 5/2000 - Pismo Politechniki Koszalińskiej
+  Źródło: Fragment Na temat Nr 5/2000 - Pismo Politechniki Koszalińskiej @natemat_5_2000
 
 ]
 

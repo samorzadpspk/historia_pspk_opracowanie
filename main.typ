@@ -1,5 +1,4 @@
 #import "@preview/bubble:0.2.2": *
-#import "@preview/muchpdf:0.1.0": muchpdf
 
 #show: bubble.with(
   title: "Historia PSPK",
@@ -37,9 +36,7 @@
 #set text(lang: "pl")
 
 
-#pagebreak()
 
-#bibliography("bibliografia.bib")
 
 #pagebreak()
 
@@ -57,3 +54,8 @@
 
 #include "rozdzialy/tks.typ"
 #pagebreak()
+
+
+
+
+#bibliography("bibliografia.bib")

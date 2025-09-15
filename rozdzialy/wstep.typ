@@ -11,8 +11,6 @@ akademickim, wybrano nowych:..."` @wsi-1-1986
 \
 
 
-// #cite(<wsi-1-1986>)
-
 == Parlament Studentów Wyzszej Szkoły Inzynierskiej (PS WSInz)
 
 == Samorząd Studentów Politechniki Koszalińskiej (SS PK)
@@ -21,4 +19,9 @@ akademickim, wybrano nowych:..."` @wsi-1-1986
 
 == Parlament Studentów Politechniki Koszalińskiej (PSPK)
 
+
+== Projekty Studenckie
+=== POLIgry: 2022
+=== Lodówka Akademicka: 2025
+=== Kawka z rektorem: 2024
 
