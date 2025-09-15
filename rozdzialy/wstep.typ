@@ -20,8 +20,3 @@ akademickim, wybrano nowych:..."` @wsi-1-1986
 == Parlament Studentów Politechniki Koszalińskiej (PSPK)
 
 
-== Projekty Studenckie
-=== POLIgry: 2022
-=== Lodówka Akademicka: 2025
-=== Kawka z rektorem: 2024
-

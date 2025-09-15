@@ -104,3 +104,33 @@ Od 1997 do 2023 roku logotypem Parlamentu był rycerz na koniu, którt w herbie 
 
 
 
+== Projekty Studenckie
+=== POLIgry: 2022
+=== Lodówka Akademicka: 2025
+=== Kawka z rektorem: 2024
+=== Gala Hasiory 2024
+#figure(
+  caption: "Logotyp Gala Hasiory",
+  image("../img/gala-hasiory.png", width: 50%),
+  
+)
+
+Gala Hasiory - Konkurs skierowany jest do studentów Politechniki Koszalińskiej, którzy działają w kołach naukowych lub organizacjach studenckich. Pierwsza edycja odbyła się w Grudniu 2024 roku.
+
+=== Otrzęsiny
+=== SMS: Szkolenie Młodych Samorządowców
+Szkolenie Młodych Samorządowców (skrót. SMS) – coroczny orgaznizowany od 2010 roku, wyjazd szkoleniowo-integracyjny skierowany dla wszystkich studentów Politechniki Koszalińskiej majacy na celu zapoznanie nowych osób z działanością samorządu i rozwięciem umiejętności w aspektach takich jak promocja, dydatkyka lub  zarządzania zespołem.
+
+==== Edycje SMS
+Edycje SMS, które odbyły się na przestrzeni lat:
+- SMS 2024 Zdunowice 17-20 Października
+- SMS 2023 Ostrzyce 16-19 Marca
+- SMS 2022 – 22-24 Marca
+- SMS 2019 Mielno 29 Listopada – 2 Grudnia
+- SMS 2018 Ostrzyce 16-18 Listopada
+
+
+
+=== Grill Akademicki 
+=== Wieczorki Filmowe
+=== Rektorska Kawa w Kresce
