@@ -50,7 +50,23 @@ Podczas Sesji Roboczej omówiono bieżące działania Prezydium FUT oraz plany n
 Źródło: https://fut.edu.pl/zjazdy_fut/
 
 
-==== FUT Koszalin 2012 
+==== FUT Koszalin 2018 - 31 Maja - 3 Czerwca
+#figure(
+  caption: "Logotyp FUT Koszalin 2018 ",
+  image("../img/fut2018.png", width: 60%),
+  
+)
+
+#figure(
+  caption: "Harmonogram FUT Koszalin 2018 ",
+  image("../img/fut2018-tyl.png", width: 50%),
+  
+)
+
+
+
+
+==== FUT Koszalin 2012 - 24-26 Lutego
 
 
 #muchpdf(
@@ -62,7 +78,10 @@ Podczas Sesji Roboczej omówiono bieżące działania Prezydium FUT oraz plany n
 Źródło: Archiwum PSPK - FUT/1/2012 - Koszalin @fut-1-2012
 ]
 
+
 ==== FUT Koszalin 2005 ? 
+Do zweryfikownia - na podstawie jednego dokumentu: sprawozdania PSPK za rok 2012.
+
 
 ==== FUT Koszalin 2000 (X Zjazd FUT)
   #muchpdf(
